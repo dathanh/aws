@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.6",
-        "aws/aws-sdk-php": "^3.62",
+        "aws/aws-sdk-php": "^3.63",
         "cakephp/cakephp": "3.6.*",
         "cakephp/migrations": "^1.8.0",
         "cakephp/plugin-installer": "^1.0",
@@ -26,7 +26,8 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "App\\": "src/",
+            "Aws\\": "./vendor/aws/aws-sdk-php/src/"
         }
     },
     "autoload-dev": {

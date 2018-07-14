@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1edfe934fced170054aef954a73d50e1",
+    "content-hash": "1dbac21b27fc71e2e2f1180da03a1545",
     "packages": [
         {
             "name": "aura/intl",
@@ -54,16 +54,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.62.9",
+            "version": "3.63.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c4bca5798cad053f3b594434c61320c13f0ebb72"
+                "reference": "d67dc8846739f4a1f93f25ce5d5cbfb3a555530d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c4bca5798cad053f3b594434c61320c13f0ebb72",
-                "reference": "c4bca5798cad053f3b594434c61320c13f0ebb72",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/d67dc8846739f4a1f93f25ce5d5cbfb3a555530d",
+                "reference": "d67dc8846739f4a1f93f25ce5d5cbfb3a555530d",
                 "shasum": ""
             },
             "require": {
@@ -130,7 +130,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2018-07-05T21:14:33+00:00"
+            "time": "2018-07-13T21:46:58+00:00"
         },
         {
             "name": "cakephp/cakephp",
